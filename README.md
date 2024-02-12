@@ -4,7 +4,7 @@
 
 # Lunii admin web
 
-[Hosted version here](https://lunii-admin-web.pages.dev)
+[Hosted version here](https://lunii.capitaine.dev)
 
 A browser based tool to manage Lunii devices.
 
